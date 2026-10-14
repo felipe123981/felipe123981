@@ -5,7 +5,7 @@
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=felipe123981&langs_count=4&theme=midnight-purple"/>
 </div>
 <div style="display: inline_block"> <br>
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg' />
+  <img align="center" height="30" weight="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg' />
 </div>
 
 <!--
