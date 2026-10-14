@@ -4,6 +4,10 @@
   <img height="180em" src="https://github-stats-extended.vercel.app/api?username=felipe123981&rank_icon=percentile&custom_title=Felipe%20Loveau%20Github%20stats&show_icons=true&include_all_commits=true&theme=midnight-purple"/>
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=felipe123981&langs_count=4&theme=midnight-purple"/>
 </div>
+<div style="display: inline_block"> <br>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-original.svg' />
+</div>
+
 <!--
 **felipe123981/felipe123981** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
